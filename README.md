@@ -1,27 +1,28 @@
-# Hey, I'm Anushri Mishra 👋
+<h1 align="center">Hey, I'm Anushri Mishra 👋</h1>
 
-**CS Undergraduate @ Sitare University**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=45&lines=CS+Undergraduate+%40+Sitare+University;Building+ML-powered+web+applications+%F0%9F%9A%80;Python+%7C+React+%7C+Flask+%7C+JavaScript;Full-Stack+Developer+%7C+ML+Engineer;Open+to+SWE+Internships" alt="Typing SVG" />
+  </a>
+</p>
 
-*Full-stack developer building ML-powered web applications and data-driven platforms. Python | React | Flask | ML. 2x Scholar. Open to internships.*
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
-[![Email](https://img.shields.io/badge/DROP%20ME%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushri-mishra-913171329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anushrimishra20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Anushri488"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👋 About Me
+## 🙋 About Me
 
-I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building full-stack web applications and ML-driven platforms across **Python** and **JavaScript** ecosystems. I've shipped projects ranging from real-time mapping applications to ML-powered disease prediction systems with interactive dashboards.
+I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and ML-driven platforms across **Python and JavaScript** ecosystems. I've shipped projects ranging from real-time mapping applications to ML-powered disease prediction systems with interactive dashboards and advanced analytics.
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
 - 🎯 **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
-- 📊 **GPA: 6.97** | Strong foundation in DSA, DBMS, OOP, and ML
+- 📊 **GPA: 6.97** | Strong foundation in DSA, OOP, DBMS, and ML
 - 🔍 Currently focused on: full-stack development, ML engineering, and system design
-- 💼 Open to **internship opportunities** in Software Engineering & Data Science
+- 💼 Open to **SWE Internships** — actively applying
 
 ---
 
@@ -30,16 +31,16 @@ I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Web Technologies**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -57,91 +58,101 @@ I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🔌 Disease Symptom Checker
-ML-powered disease prediction system with React frontend and PDF report generation.
-- **Accuracy**: 99.5% across 51 diseases using Random Forest
-- **Tech**: Python, Scikit-learn, Flask, React, Pandas
-- Real-time diagnosis with confidence scoring and PDF exports
+### 🔌 [Disease Symptom Checker](https://github.com/Anushri488/Disease-Symptom-Checker)
+ML-powered disease prediction system using Random Forest with React frontend and PDF report generation.
 
-### 📍 EV Charging Station Finder
-Real-time locator with live data aggregation and interactive map integration.
-- **Data Pipeline**: Selenium web scraping → Pandas processing → Flask API
-- **Tech**: Python, Selenium, Pandas, Flask, JavaScript, Map APIs
-- Live display of CarDekho charging network across India
-
-### 🎨 AlgoScope
-Interactive algorithm visualizer with real-time animations.
-- **Algorithms**: Sorting algorithms, graph traversal, shortest-path computation
-- **Tech**: React, TypeScript, Tailwind CSS
-- Dynamic visualizations for learning DSA concepts
-
-### 🔢 Expression Interpreter
-Custom interpreter for mathematical expression evaluation using AST.
-- **Features**: Operator precedence handling, parentheses parsing, full expression evaluation
-- **Tech**: Java, OOP, Data Structures
-
-### ✅ To-Do List Web Application
-Task management web app with local storage persistence.
-- **Features**: Add/delete tasks, completion tracking, data persistence
-- **Tech**: HTML, CSS, JavaScript
+`Python` `Scikit-learn` `Flask` `React` `Pandas` `ML`
 
 ---
 
-## 📚 Relevant Coursework
+### 📍 [EV Charging Station Finder](https://github.com/Anushri488/EV-Charging-Station-Finder)
+Real-time locator with live data aggregation and interactive map integration using Selenium web scraping and Flask API.
 
-Advanced Data Structures & Algorithms | Object-Oriented Programming | Database Management Systems | Python Programming | Artificial Intelligence | Machine Learning | Java Programming | Search Engines & Information Retrieval
-
----
-
-## 🎯 Currently Learning
-
-- Backend engineering and system design
-- Production ML pipelines
-- Advanced database optimization
-- DevOps practices
+`Python` `Selenium` `Pandas` `Flask` `JavaScript` `Map APIs`
 
 ---
 
-## 📞 Get in Touch
+### 🎨 [AlgoScope — Algorithm Visualizer](https://github.com/Anushri488/AlgoScope)
+Interactive algorithm visualizer with real-time animations for sorting, graph traversal, and shortest-path computations.
 
-```
-📧 PING anushri.dev — 3 packets transmitted
-├─ su-24020@sitare.org           [ 200 OK ]
-├─ +91 8318858143                [ 200 OK ]
-├─ Lucknow, India                [ 200 OK ]
-└─ Open to SWE Internships        [ ✅ ACTIVE ]
-```
+`React` `TypeScript` `Tailwind CSS` `DSA`
 
 ---
 
-## 📊 GitHub Stats
+### 🔢 [Expression Interpreter](https://github.com/Anushri488/Expression-Interpreter)
+Custom interpreter for mathematical expression evaluation using Abstract Syntax Tree with operator precedence handling.
+
+`Java` `OOP` `Data Structures` `Parser`
+
+---
+
+### ✅ [To-Do List Web Application](https://github.com/Anushri488/Todo-List)
+Task management web app with local storage persistence, completion tracking, and data management.
+
+`HTML` `CSS` `JavaScript` `Web Storage`
+
+---
+
+### 💰 [FinTrack — Expense Tracker](https://github.com/Anushri488/FinTrack)
+Full-stack expense management application with category-wise insights, interactive charts, and financial report generation.
+
+`Flask` `PostgreSQL` `Chart.js` `HTML` `CSS` `JavaScript`
+
+---
+
+## 🏅 Scholarships
+
+- 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
+- 🎯 **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [anushrimishra20@gmail.com](mailto:anushrimishra20@gmail.com)
+- 📱 Phone: +91 8318858143
+- 📍 Lucknow, India
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anushri488&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushri488&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushri488&theme=tokyonight" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushri488&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
 
 <div align="center">
 
-![Anushri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushri488&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+```
+PING anushri.dev — 3 packets transmitted
+📧  anushrimishra20@gmail.com     [ 200 OK ]
+📱  +91 8318858143                [ 200 OK ]
+📍  Lucknow, India                [ 200 OK ]
+💼  Open to SWE Internships       [ ✅ ACTIVE ]
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushri488&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329)
+[![Gmail](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 Let's Build Something Together
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
-[![Email](https://img.shields.io/badge/SEND%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
-
----
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anushri488&color=blueviolet&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Anushri488&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
