@@ -4,9 +4,12 @@
 
 *Full-stack developer building ML-powered web applications and data-driven platforms. Python | React | Flask | ML. 2x Scholar. Open to internships.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushri488)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
+[![Email](https://img.shields.io/badge/DROP%20ME%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
+
+</div>
 
 ---
 
@@ -53,6 +56,7 @@ I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -105,26 +109,39 @@ Advanced Data Structures & Algorithms | Object-Oriented Programming | Database M
 
 ## 📞 Get in Touch
 
-- **Email**: [anushrimishra20@gmail.com](mailto:anushrimishra20@gmail.com) | [su-24020@sitare.org](mailto:su-24020@sitare.org)
-- **Phone**: +91 8318858143
-- **Location**: Lucknow, India
+```
+📧 PING anushri.dev — 3 packets transmitted
+├─ su-24020@sitare.org           [ 200 OK ]
+├─ +91 8318858143                [ 200 OK ]
+├─ Lucknow, India                [ 200 OK ]
+└─ Open to SWE Internships        [ ✅ ACTIVE ]
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Anushri488&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushri488&layout=compact&theme=dark&hide_border=true)
+![Anushri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushri488&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushri488&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
-## 📫 Let's Connect
-
-- **Email**: [anushrimishra20@gmail.com](mailto:anushrimishra20@gmail.com)
-- **LinkedIn**: [linkedin.com/in/anushri-mishra-913171329](https://www.linkedin.com/in/anushri-mishra-913171329/)
-- **GitHub**: [github.com/Anushri488](https://github.com/Anushri488)
+</div>
 
 ---
 
-*Building things that matter. Open to collaboration and internship opportunities.*
+<div align="center">
+
+### 🚀 Let's Build Something Together
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
+[![Email](https://img.shields.io/badge/SEND%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
+
+---
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anushri488&color=blueviolet&label=PROFILE+VIEWS)
+
+</div>
