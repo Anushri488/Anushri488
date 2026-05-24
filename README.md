@@ -64,7 +64,7 @@ I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), buil
 
 ## 🚀 Featured Projects
 
-### 🔌 [Disease Symptom Checker](https://github.com/Anushri488/Disease-Symptom-Checker)
+### 🔌 [Disease Symptom Checker](https://github.com/Anushri488/disease-checker-v2)
 ML-powered disease prediction system using Random Forest with React frontend and PDF report generation.
 
 `Python` `Scikit-learn` `Flask` `React` `Pandas` `ML`
