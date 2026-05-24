@@ -20,7 +20,7 @@ I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), buil
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
 - 🎯 **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
-- 📊 **GPA: 6.97** | Strong foundation in DSA, OOP, DBMS, and ML
+-  Strong foundation in DSA, OOP, DBMS, and ML
 - 🔍 Currently focused on: full-stack development, ML engineering, and system design
 - 💼 Open to **SWE Internships** — actively applying
 
