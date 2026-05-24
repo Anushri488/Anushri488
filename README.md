@@ -71,28 +71,28 @@ ML-powered disease prediction system using Random Forest with React frontend and
 
 ---
 
-### 📍 [EV Charging Station Finder](https://github.com/Anushri488/EV-Charging-Station-Finder)
+### 📍 [EV Charging Station Finder](https://github.com/Anushri488/EV-Vehicle-charging-finder)
 Real-time locator with live data aggregation and interactive map integration using Selenium web scraping and Flask API.
 
 `Python` `Selenium` `Pandas` `Flask` `JavaScript` `Map APIs`
 
 ---
 
-### 🎨 [AlgoScope — Algorithm Visualizer](https://github.com/Anushri488/AlgoScope)
+### 🎨 [AlgoScope — Algorithm Visualizer](https://github.com/Anushri488/algo-vis-playground)
 Interactive algorithm visualizer with real-time animations for sorting, graph traversal, and shortest-path computations.
 
 `React` `TypeScript` `Tailwind CSS` `DSA`
 
 ---
 
-### 🔢 [Expression Interpreter](https://github.com/Anushri488/Expression-Interpreter)
+### 🔢 [Expression Interpreter](https://github.com/Anushri488/CALC-)
 Custom interpreter for mathematical expression evaluation using Abstract Syntax Tree with operator precedence handling.
 
 `Java` `OOP` `Data Structures` `Parser`
 
 ---
 
-### ✅ [To-Do List Web Application](https://github.com/Anushri488/Todo-List)
+### ✅ [To-Do List Web Application](https://github.com/Anushri488/TO-DO-List)
 Task management web app with local storage persistence, completion tracking, and data management.
 
 `HTML` `CSS` `JavaScript` `Web Storage`
