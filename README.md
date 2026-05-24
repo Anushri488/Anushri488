@@ -2,6 +2,8 @@
 
 **CS Undergraduate @ Sitare University**
 
+*Full-stack developer building ML-powered web applications and data-driven platforms. Python | React | Flask | ML. 2x Scholar. Open to internships.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-mishra-913171329/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushrimishra20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushri488)
@@ -101,6 +103,22 @@ Advanced Data Structures & Algorithms | Object-Oriented Programming | Database M
 
 ---
 
+## 📞 Get in Touch
+
+- **Email**: [anushrimishra20@gmail.com](mailto:anushrimishra20@gmail.com) | [su-24020@sitare.org](mailto:su-24020@sitare.org)
+- **Phone**: +91 8318858143
+- **Location**: Lucknow, India
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Anushri488&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushri488&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 📫 Let's Connect
 
 - **Email**: [anushrimishra20@gmail.com](mailto:anushrimishra20@gmail.com)
@@ -110,4 +128,3 @@ Advanced Data Structures & Algorithms | Object-Oriented Programming | Database M
 ---
 
 *Building things that matter. Open to collaboration and internship opportunities.*
-
