@@ -97,6 +97,8 @@ Task management web app with local storage persistence, completion tracking, and
 
 `HTML` `CSS` `JavaScript` `Web Storage`
 
+---
+
 ## 🏅 Scholarships
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
