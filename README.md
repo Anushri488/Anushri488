@@ -97,15 +97,6 @@ Task management web app with local storage persistence, completion tracking, and
 
 `HTML` `CSS` `JavaScript` `Web Storage`
 
----
-
-### 💰 [FinTrack — Expense Tracker](https://github.com/Anushri488/FinTrack)
-Full-stack expense management application with category-wise insights, interactive charts, and financial report generation.
-
-`Flask` `PostgreSQL` `Chart.js` `HTML` `CSS` `JavaScript`
-
----
-
 ## 🏅 Scholarships
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
