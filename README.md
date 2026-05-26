@@ -18,11 +18,11 @@
 
 I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and ML-driven platforms across **Python and JavaScript** ecosystems. I've shipped projects ranging from real-time mapping applications to ML-powered disease prediction systems with interactive dashboards and advanced analytics.
 
-- 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
-- 🎯 **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
--   Strong foundation in DSA, OOP, DBMS, and ML
-- 🔍 Currently focused on: full-stack development, ML engineering, and system design
-- 💼 Open to **SWE Internships** — actively applying
+- **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
+- **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
+- **Strong foundation** in DSA, OOP, DBMS, and ML
+- **Currently focused on:** full-stack development, ML engineering, and system design
+- **Open to SWE Internships** — actively applying
 
 ---
 
