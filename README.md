@@ -104,6 +104,7 @@ Real-time locator with live data aggregation and interactive map integration usi
 Interactive algorithm visualizer with real-time animations for sorting, graph traversal, and shortest-path computations.
 
 `React` `TypeScript` `Tailwind CSS` `DSA`
+&nbsp;&nbsp;[🔗 Live Demo](https://dsa-visualizer-wine.vercel.app/)
 
 ---
 
@@ -111,6 +112,7 @@ Interactive algorithm visualizer with real-time animations for sorting, graph tr
 Full-stack CRUD app for creating, updating, and managing notices, backed by a cloud-hosted TiDB database with type-safe Prisma ORM queries.
 
 `Next.js` `Prisma` `TiDB Cloud` `JavaScript`
+&nbsp;&nbsp;[🔗 Live Demo](https://notice-board-ashy-psi.vercel.app)
 
 ---
 
