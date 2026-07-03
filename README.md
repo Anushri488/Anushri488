@@ -16,7 +16,7 @@
 
 ## 🙋 About Me
 
-I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and ML-driven platforms across the **Node.js, React, and Python** ecosystems. I've shipped 7+ projects ranging from live-deployed booking and e-learning platforms with JWT authentication to ML-powered disease prediction systems and real-time mapping tools.
+I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and ML-driven platforms across the **Node.js, React, and Python** ecosystems. I've shipped 8+ projects ranging from live-deployed booking, e-learning, and food delivery platforms with JWT authentication to ML-powered disease prediction systems and real-time mapping tools.
 
 - **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
 - **Reliance Undergraduate Scholarship**, Reliance Foundation — Nov 2024 – Present
@@ -45,6 +45,7 @@ I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), buil
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -69,6 +70,14 @@ I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), buil
 ---
 
 ## 🚀 Featured Projects
+
+### 🍔 [QuickBite — Full-Stack Food Delivery App](https://github.com/Anushri488/food-delivery-website)
+Full-stack food delivery platform with JWT authentication, real-time order tracking via Socket.io, Razorpay payment integration (signature verification, refunds, PDF invoices), Cloudinary image uploads, automated email notifications, and an analytics dashboard — deployed on Netlify (frontend) and Render (backend), with MongoDB Atlas as the database.
+
+`Node.js` `Express.js` `MongoDB` `Socket.io` `Razorpay` `JWT` `Cloudinary`
+&nbsp;&nbsp;[🔗 Live Demo](https://food-delivery-anushri.netlify.app)
+
+---
 
 ### 🏨 [The Ledger — Hotel & Event Booking Platform](https://github.com/Anushri488/the-ledger)
 Full-stack booking platform with JWT-based authentication, bcrypt password hashing, and a custom vanilla-JS calendar UI supporting hotel stays and event bookings — deployed live on Netlify (frontend) and Render (backend).
